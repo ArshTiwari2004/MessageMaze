@@ -4,6 +4,37 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Details about the tech stack :
+
+ZOD for validation
+regexr
+resend email
+shadcn library
+mongoose (mongo db)
+react-email
+bcrypt js
+typescript
+types-bcryptjs
+Auth JS
+Route Hnadlers
+nextauth.js
+JWT token
+mongodb-atlas
+Postman API
+Message API with aggregation pipelines
+Sessions for already user logged in 
+Vercel AI SDK
+AI open ai
+React hook form
+axios for request
+Zod Resolver
+Tailwind CSS
+ESLint
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
