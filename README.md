@@ -6,53 +6,30 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Details about the tech stack :
 
-ZOD for validation
-
-regexr
-
-resend email
-
-shadcn library
-
-mongoose (mongo db)
-
-react-email
-
-bcrypt js
-
-typescript
-
-types-bcryptjs
-
-Auth JS
-
-Route Hnadlers
-
-nextauth.js
-
-JWT token
-
-mongodb-atlas
-
-Postman API
-
-Message API with aggregation pipelines
-
-Sessions for already user logged in 
-
-Vercel AI SDK
-
-AI open ai
-
-React hook form
-
-axios for request
-
-Zod Resolver
-
-Tailwind CSS
-
-ESLint
+1. ZOD for validation
+2. regexr
+3. resend email
+4. shadcn library
+5. mongoose (mongo db)
+6. react-email
+7. bcrypt js
+8. typescript
+9. types-bcryptjs
+10. Auth JS
+11. Route Hnadlers
+12. nextauth.js
+13. JWT token
+14. mongodb-atlas
+15. Postman API
+16. Message API with aggregation pipelines
+17. Sessions for already user logged in 
+18. Vercel AI SDK
+19. AI open ai
+20. React hook form
+21. axios for request
+22. Zod Resolver
+23. Tailwind CSS
+24. ESLint
 
 
 
@@ -60,7 +37,24 @@ ESLint
 
 ## Getting Started
 
-First, run the development server:
+1. Install [Node.js](https://nodejs.org/en)
+2. Clone this repository
+```bash
+git clone https://github.com/ArshTiwari2004/MessageMaze.git
+```
+3. Open directory
+```bash
+cd MessageMaze
+```
+4. Install node dependencies-
+```bash
+npm i 
+```
+or 
+```bash
+npm install
+```
+5. Now , run the development server:
 
 ```bash
 npm run dev
