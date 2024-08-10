@@ -1,6 +1,6 @@
 # Message-Maze
 
-## This application is built using NEXT JS and allows users to send anonymous messages to eachother.
+## This application is built using NEXT JS and allows users to send anonymous messages to eachother. It also prompts random messages which are generated through AI using the vercel AI SDK and Open AI which allows users to select and send those messages to other users being anonymous.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
